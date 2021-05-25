@@ -22,4 +22,4 @@ Para poder instalar este proyecto en tu Pc o Laptop necesitaras los siguientes p
 
 Aqui te dejare el link ('') un video de mi propiedad en el cual te enseño a como instalar Visual Studio Code.
 
-- Sigamos con el servidor web. Los servidores web mas usados actualmente son **Wampserver**,**Lampserver**,**Mampserver**, Y **Xampserver**.
+- Sigamos con el servidor web. Los servidores web mas usados actualmente son **Wampserver**,**Lampserver**,**Mampserver**, Y **Xampserver**. Cada servidor funciona en un sistema operativo diferente a exepción de **xampserver** que funciona en cualquier sistema operativo. Asi que debes descargar el servidor web según tu sistema operativo. Como ya mencionaba antes si usas windows debes decargar **'Wampserver'** https://www.wampserver.com/en/ ,si usas linux debes usar **'Lampserver'** https://www.linux.com/training-tutorials/easy-lamp-server-installation/, si usas MacOs **'Mampserver'** https://mapserver.org/, Y si usas cualquiera de los sistemas operativos mencionados antes puedes usar **'Xampserver'** https://www.apachefriends.org/es/index.html que es compatible con cualquier sistema operativo. 
