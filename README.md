@@ -6,4 +6,4 @@ Este es un pequeño proyecto muy simple el cula quiere mostrar lo facil y sencil
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
-Mira # Deployment para conocer como desplegar el proyecto.
+Mira #Deployment para conocer como desplegar el proyecto.
