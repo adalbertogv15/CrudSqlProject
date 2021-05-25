@@ -1,0 +1,146 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+#logo{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 420px;
+	top: 10px;
+}
+p{
+	margin-left: 550px;
+	margin-top: 30px;
+	font-size: 50px;
+}
+#buscar_id{
+	margin-left: 15px;
+	margin-top: 50px;
+	width: 200px;
+	height: 50px;
+	border: 1px solid;
+	border-radius: 7px;
+	outline: none;
+	font-size: 20px;
+}
+#buscar_id:focus{
+	border: 1px solid #008CF3;
+}
+#buscar{
+	margin-left: 10px;
+	width: 200px;
+	height:54px;
+	border: 1px solid;
+	border-radius: 7px;
+	outline: none;
+	font-size: 20px;
+	background-color: #23FF00;
+	color: #fff;
+}
+#contenedor1{
+	position: relative;
+	top: 30px;	
+	left: 5px;
+}
+#contenedor1 input{
+	margin-left: 10px;
+	width: 200px;
+	height: 50px;
+	border: 1px solid;
+	border-radius: 7px;
+	font-size: 20px;
+	color: #fff;
+	background-color: #008CF3;
+}
+#contenedor2{
+	position: relative;
+	top: 50px;	
+	left: 5px;
+}
+#contenedor2 input[type="number"]{
+	margin-left: 10px;
+	margin-top: 15px;
+	width: 200px;
+	height: 50px;
+	border: 1px solid;
+	border-radius: 7px;
+	outline: none;
+	font-size: 20px;
+}
+#contenedor2 input[type="number"]:focus{
+	border: 1px solid #008CF3;
+}
+#contenedor2 input[type="submit"]{
+	margin-left: 10px;
+	width: 200px;
+	height:54px;
+	border: 1px solid;
+	border-radius: 7px;
+	outline: none;
+	font-size: 20px;
+	background-color: #23FF00;
+	color: #fff;
+}
+#contenedor3{
+	position: relative;
+	top: 50px;
+	left: 5px;
+}
+#contenedor3 input[type="number"]{
+	margin-left: 10px;
+	margin-top: 15px;
+	width: 200px;
+	height: 50px;
+	border: 1px solid;
+	border-radius: 7px;
+	outline: none;
+	font-size: 20px;
+}
+#contenedor3 input[type="number"]:focus{
+	border: 1px solid #008CF3;
+}
+#contenedor3 input[type="submit"]{
+	margin-left: 10px;
+	width: 200px;
+	height:54px;
+	border: 1px solid;
+	border-radius: 7px;
+	outline: none;
+	font-size: 20px;
+	background-color: #23FF00;
+	color: #fff;
+}
+#contenedor4{
+	position: relative;
+	top: 50px;	
+	left: 5px;
+}
+#contenedor4 input[type="number"]{
+	margin-left: 10px;
+	margin-top: 15px;
+	width: 200px;
+	height: 50px;
+	border: 1px solid;
+	border-radius: 7px;
+	outline: none;
+	font-size: 20px;
+}
+#contenedor4 input[type="text"]:focus{
+	border: 1px solid #008CF3;
+}
+#contenedor4 input[type="submit"]{
+	margin-left: 10px;
+	width: 200px;
+	height:54px;
+	border: 1px solid;
+	border-radius: 7px;
+	outline: none;
+	font-size: 20px;
+	background-color: #23FF00;
+	color: #fff;
+}
+#contenedor2, #contenedor3, #contenedor4{
+	display: none;
+}
