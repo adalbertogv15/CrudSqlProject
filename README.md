@@ -26,4 +26,4 @@ Aqui te dejare el link ('') de un video de mi propiedad en el cual te enseño a 
 
 - Por ultimo deberas descargar el software de git que es recomendada usarla pero no obligatoria. Para descargar git te dirijes a su pagina oficial https://git-scm.com/downloads y pulsas el botón de descargar. git te permitira poder clonar mi repositorio y obviamente luego tambien podras clonar otros repositorios de otros desarrolladores. Tambien como mencionaba antes si no quieres decargar este software lo que puedes hacer es descargar el codigo en formato .ZIP.
 
-<img src="Imágenes/Download ZIP" width="350" title="hover text">
+<img src="https://ibb.co/DQ6jyRY" width="350" title="hover text">
