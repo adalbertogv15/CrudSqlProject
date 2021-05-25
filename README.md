@@ -14,3 +14,4 @@ Para poder instalar este proyecto en tu Pc o Laptop necesitaras los siguientes p
 
 - Un editor de codigo [Recomendado][No es obligatorio], el editor de codigo lo utilizaras para poder modificar el codigo del proyecto.
 - Un servidor web; Si usas windows [Wampserver], si usas linux [Lampserver], si usas MacOs [Mampserver], Si usas cualquiera de los sistemas operativos (Windows,Linux,MacOs) mencionados antes puedes usar [Xampserver], este es compatible con cualquier sistema operativo.
+- Y por ultimo necesitaras el software de git para poder clonar este repositorio en tu pc [Recomendado][No obligatorio]. Si por algun motivo no puedes instalar el software de git puedes descargar el codigo en formato .zip.
