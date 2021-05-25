@@ -18,4 +18,4 @@ Para poder instalar este proyecto en tu Pc o Laptop necesitaras los siguientes p
 
 **Como instalarlos:**
 
-- Empezemos con el editor de codigo.
+- Empezemos con el editor de codigo. Actualmente hay muchos editores de codigos que son diseñados específicamente para editar el código fuente de programas informáticos. El editor de codigo que yo te recomiendo usar es **[Visual Studio Code]** ya que este editor es soportado por la empresa de microsoft y por sus usuarios; Para descargar el editor de codigo visual studio code aqui te dejo el enlace 'https://code.visualstudio.com', al abrir el enlace pulsas un click en el botón de descargar. Hay muchos mas editores de codigo como 'Sublime Text','Atom','Notepad++','CoffeeCup','TextMate','Vim','UltraEdit','Coda'.
