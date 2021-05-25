@@ -1,6 +1,6 @@
 # SqlCrudProject
 
-Este es un pequeño proyecto muy simple el cula quiere mostrar lo facil y sencillo que es desarrollar un crud con el lenguaje de programación php y el lenguaje de programación sql.
+Este es un pequeño proyecto muy simple el cual quiere mostrar lo facil y sencillo que es desarrollar un crud con el lenguaje de programación php y el lenguaje de programación sql.
 
 # Comenzando 🚀
 
